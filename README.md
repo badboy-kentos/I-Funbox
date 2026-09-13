@@ -205,3 +205,6 @@ iFunBox is a completely free software solution with all features and updates inc
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-13 21:11:45 UTC
